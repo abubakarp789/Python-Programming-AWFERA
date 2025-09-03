@@ -1,22 +1,40 @@
 # Python Programming - AWFERA Course
 
-## Student Information
-**Name:** Abu Bakar  
-**Course:** Python Programming  
-**Institution:** AWFERA  
+## 👨‍💻 Student Information
 
-## Course Overview
+**Name:** Abu Bakar
+**Course:** Python Programming
+**Institution:** AWFERA
 
-This course provides a comprehensive introduction to Python programming and its applications in AI and data-driven tasks. Starting with the fundamentals of Python's syntax, data structures, and control flow, learners will progressively build skills in file handling, error management, data analysis, and visualization. They will gain hands-on experience implementing basic machine learning models and natural language processing techniques, and learn to interact with APIs to integrate external data and tools. By the end of the course, students will have a solid foundation in Python, enabling them to confidently tackle real-world AI projects and pursue more advanced topics in machine learning and artificial intelligence.
+## 📚 Course Overview
 
-## Course Details
+This comprehensive course introduces Python programming with a focus on AI and data science applications. Students will master Python fundamentals and progress through data structures, machine learning, and real-world project development. The course emphasizes hands-on learning with practical projects and AI-assisted coding techniques.
+
+## 📋 Course Details
 
 - **Course Title:** Python Programming
 - **Focus:** Basics of Python with AI-focused projects
 - **Audience:** General Audience
 - **Difficulty Level:** Basic
 - **Created by:** AWFERA
-- **Last Updated:** July 1, 2025 4:11 PM
+
+## 🎯 Learning Outcomes
+
+### Module 1: Core Python Foundations
+
+Write basic Python programs utilizing fundamental syntax, control structures, and functions.
+
+### Module 2: Data Structures & File Handling
+
+Effectively manage complex data structures, handle files, and implement error management strategies.
+
+### Module 3: Data Analysis & AI Concepts
+
+Conduct data analysis, create visualizations, and apply introductory machine learning and NLP techniques.
+
+### Module 4: APIs & Real-World Projects
+
+Integrate APIs, develop AI-driven projects, and confidently extend Python skills to real-world applications.
 
 ## Repository Structure
 
@@ -31,17 +49,62 @@ This course provides a comprehensive introduction to Python programming and its 
 │       └── Assignment-02-Solutions.ipynb
 ```
 
-## Course Outcomes
+## 🗓️ Course Structure
 
-Upon completion of this course, students will be able to:
+### Module 1: Core Python Foundations (Lectures 0-7)
 
-- Master Python fundamentals including syntax, data structures, and control flow
-- Handle files and manage errors effectively in Python applications
-- Perform data analysis and create visualizations
-- Implement basic machine learning models
-- Work with natural language processing techniques
-- Integrate external data and tools through API interactions
-- Build a solid foundation for advanced AI and machine learning topics
+- **Lecture 0**: Course Introduction & Python in AI/Data Science
+- **Lectures 1-2**: Python Setup, IDEs, and Development Environment
+- **Lectures 3-4**: Basic Syntax, Data Types, and String Manipulation
+- **Lectures 5-6**: Conditional Statements and Loop Structures
+- **Lecture 7**: Functions, Modules, and Code Organization
+
+### Module 2: Data Structures & File Handling (Lectures 8-11)
+
+- **Lecture 8**: Lists and Tuples - Dynamic vs. Immutable Data
+- **Lecture 9**: Dictionaries and Sets - Advanced Data Management
+- **Lecture 10**: File I/O Operations and CSV Data Handling
+- **Lecture 11**: Exception Handling and Error Management
+
+### Module 3: Data Analysis & AI Concepts (Lectures 12-17)
+
+- **Lecture 12**: NumPy for Mathematical Operations and Arrays
+- **Lecture 13**: pandas for Data Analysis and Cleaning
+- **Lecture 14**: Data Visualization with matplotlib and seaborn
+- **Lectures 15-16**: Machine Learning Fundamentals with scikit-learn
+- **Lecture 17**: Natural Language Processing (NLP) Basics
+
+### Module 4: APIs & Capstone Project (Lectures 18-20)
+
+- **Lecture 18**: API Integration and Data Collection
+- **Lecture 19**: Building APIs with FastAPI and ML Integration
+- **Lecture 20**: Capstone Project Development and Presentation
+
+## 🚀 Capstone Project
+
+The course culminates in a comprehensive capstone project that integrates all learned concepts:
+
+**Project Components:**
+
+- Python fundamentals and data structures
+- Data analysis and visualization
+- Machine learning model implementation
+- API development and integration
+- Real-world problem solving
+
+**Project Features:**
+
+- Peer review sessions and collaborative learning
+- AI-assisted debugging and code refinement
+- Professional presentation and documentation
+
+## ✨ Key Features
+
+- **AI-Assisted Learning**: Integration with chatbots and AI tools for enhanced understanding
+- **Hands-on Practice**: Practical coding exercises and mini-projects throughout
+- **Industry Applications**: Real-world use cases from finance, healthcare, and social media
+- **Problem-Solving Focus**: Emphasis on practical problem-solving over syntax memorization
+- **Modern Tools**: Experience with current industry-standard libraries and frameworks
 
 ## Prerequisites
 
@@ -60,10 +123,6 @@ This course is designed for beginners, so no prior programming experience is req
 - Jupyter Notebooks
 - Various Python libraries for AI and data science (NumPy, Pandas, Matplotlib, Scikit-learn, etc.)
 
-## Contact
-
-For questions or support regarding this course, please contact AWFERA.
-
 ---
 
-*This repository contains coursework and assignments for the Python Programming course offered by AWFERA.*
+*This repository contains coursework and assignments done by **Abu Bakar** for the Python Programming course offered by **AWFERA**.*
